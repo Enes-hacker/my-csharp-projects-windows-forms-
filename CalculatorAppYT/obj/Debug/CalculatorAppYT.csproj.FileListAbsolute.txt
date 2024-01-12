@@ -1,0 +1,11 @@
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\CalculatorAppYT\CalculatorAppYT\bin\Debug\CalculatorAppYT.exe.config
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\CalculatorAppYT\CalculatorAppYT\bin\Debug\CalculatorAppYT.exe
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\CalculatorAppYT\CalculatorAppYT\bin\Debug\CalculatorAppYT.pdb
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\CalculatorAppYT\CalculatorAppYT\obj\Debug\CalculatorAppYT.csproj.AssemblyReference.cache
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\CalculatorAppYT\CalculatorAppYT\obj\Debug\CalculatorAppYT.csproj.SuggestedBindingRedirects.cache
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\CalculatorAppYT\CalculatorAppYT\obj\Debug\CalculatorAppYT.Form1.resources
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\CalculatorAppYT\CalculatorAppYT\obj\Debug\CalculatorAppYT.Properties.Resources.resources
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\CalculatorAppYT\CalculatorAppYT\obj\Debug\CalculatorAppYT.csproj.GenerateResource.cache
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\CalculatorAppYT\CalculatorAppYT\obj\Debug\CalculatorAppYT.csproj.CoreCompileInputs.cache
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\CalculatorAppYT\CalculatorAppYT\obj\Debug\CalculatorAppYT.exe
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\CalculatorAppYT\CalculatorAppYT\obj\Debug\CalculatorAppYT.pdb
