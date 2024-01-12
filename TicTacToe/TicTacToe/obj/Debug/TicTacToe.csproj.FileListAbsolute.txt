@@ -1,0 +1,12 @@
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\TicTacToe\TicTacToe\obj\Debug\TicTacToe.GameForm.resources
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+D:\C# Advanced zapiski\C# Advanced Exercises Source Code\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
